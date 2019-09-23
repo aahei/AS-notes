@@ -1,6 +1,4 @@
-![page1image3805424848](blob:https://stackedit.io/6042a23b-cbb9-48ff-8b15-161258176a2e)
-
-## Cambridge International AS & A level Physics 9702
+# Cambridge International AS & A level Physics 9702
 
  1. ### Physical quantities and units
 1.1 Physical quantities
@@ -31,6 +29,6 @@
 ### Resourses
 1. [Syllabus](https://www.cambridgeinternational.org/Images/329533-2019-2021-syllabus.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjU1ODgxNiwxMjc0NTY1ODQ0LDEzNT
+eyJoaXN0b3J5IjpbMTM1MTY0NzY1OCwxMjc0NTY1ODQ0LDEzNT
 MzNTExMDYsMjA0MDI5NzYyMl19
 -->
