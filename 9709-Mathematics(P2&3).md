@@ -31,8 +31,9 @@ $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 
 ---
 The **division algorithm for polynomials** is:
-	dividend = divisor  quotient + remainder
+dividend = divisor × quotient + remainder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU1NzQwNTcsLTE2NDc2ODU5MDksOT
-E3NTcwMzc4LDEzNjk0NzMyOTYsMTU5MTYzODkwNV19
+eyJoaXN0b3J5IjpbLTQ2NTM5NTI1OCwtMTUzNTU3NDA1NywtMT
+Y0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4
+OTA1XX0=
 -->
