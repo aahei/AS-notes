@@ -5,8 +5,9 @@ Mathematics 9709
 
 ### 2.1 Algebra
 #### Glossary
-- modulus a.k.a. 
+- **modulus** *a.k.a.* **absolute value**
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MzA5MjU4XX0=
+eyJoaXN0b3J5IjpbLTEyOTQ2MzA4NzddfQ==
 -->
