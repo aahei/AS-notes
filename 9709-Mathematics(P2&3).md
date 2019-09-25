@@ -15,12 +15,12 @@ $|ax+b|=cx+d$
 <iframe src="https://www.desmos.com/calculator/7nygjaejx0?embed" width="200px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
-$|a|=|b| ⇔\leftrightarrow a^2 = b^2$
+$|a|=|b| \Leftrightarrow a^2 = b^2$
 
 ---
 $|a|\leq|b|$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTQzOTgzNywxMzY5NDczMjk2LDE1OT
-E2Mzg5MDVdfQ==
+eyJoaXN0b3J5IjpbNDc3Mjg2MTEzLDEzNjk0NzMyOTYsMTU5MT
+YzODkwNV19
 -->
