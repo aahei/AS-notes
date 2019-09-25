@@ -10,6 +10,7 @@ Mathematics 9709
 ----
 $|ax+b|=cx+d$
 => $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
+
 **TIP: Always check the answers (See below)**
 <iframe src="https://www.desmos.com/calculator/7nygjaejx0?embed" width="200px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
@@ -18,6 +19,6 @@ $|a|=|b| ⇔ a^2 = b^2$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTQwMzQyNywxMzY5NDczMjk2LDE1OT
+eyJoaXN0b3J5IjpbLTY0NDAzNDI1MSwxMzY5NDczMjk2LDE1OT
 E2Mzg5MDVdfQ==
 -->
