@@ -7,8 +7,10 @@ Mathematics 9709
 ### 2.1 Algebra
 #### Glossary
 - **modulus** *a.k.a.* **absolute value**
-- **polynoma**
-- 
+- **polynomial**
+- the **degree** of the polynomial
+	*highest power of $x$*
+- **dividend
 
 ----
 $|ax+b|=cx+d$
@@ -25,6 +27,6 @@ $|a|\leq b \Harr -b\leq a\leq b$
 $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMTU2NDM4LDEzNjk0NzMyOTYsMTU5MT
+eyJoaXN0b3J5IjpbNDQ1ODc3OTY4LDEzNjk0NzMyOTYsMTU5MT
 YzODkwNV19
 -->
