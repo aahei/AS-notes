@@ -7,8 +7,9 @@ Mathematics 9709
 #### Glossary
 - **modulus** *a.k.a.* **absolute value**
 
-$|ax+b|=cx+d$ &emsp =>
+$|ax+b|=cx+d$
+=> $ax+b=cx+d$ **or**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU3MDIxNDddfQ==
+eyJoaXN0b3J5IjpbLTE1MDQ2OTk0MTBdfQ==
 -->
