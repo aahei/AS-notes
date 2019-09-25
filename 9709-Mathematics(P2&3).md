@@ -8,7 +8,7 @@ Mathematics 9709
 - **modulus** *a.k.a.* **absolute value**
 
 $|ax+b|=cx+d$
-=> $ax+b=cx+d$ hole
+=> $ax+b=cx+d$ ho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4MDM1NzE1XX0=
+eyJoaXN0b3J5IjpbLTE0NTM2MzU3NDhdfQ==
 -->
