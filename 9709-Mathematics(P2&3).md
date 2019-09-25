@@ -20,8 +20,8 @@ $|a|=|b| \Harr a^2 = b^2$
 
 ---
 $|a|\leq|b| \Harr -b\leq a\leq b$
-$|a|\geq b \Harr a\leq -b OR a\geq b$
+$|a|\geq b \Harr a\leq -b 或 a\geq b$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDkwNjA4MCwxMzY5NDczMjk2LDE1OT
-E2Mzg5MDVdfQ==
+eyJoaXN0b3J5IjpbNTA2Mjk0MzYzLDEzNjk0NzMyOTYsMTU5MT
+YzODkwNV19
 -->
