@@ -27,7 +27,10 @@ $|a|=|b| \Harr a^2 = b^2$
 $|a|\leq b \Harr -b\leq a\leq b$
 $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 
+---
+The **division algorithm for polynomials** is:
+	dividend = divisor x quotient + remainder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NTcwMzc4LDEzNjk0NzMyOTYsMTU5MT
-YzODkwNV19
+eyJoaXN0b3J5IjpbLTE4OTY3MjA0NjksOTE3NTcwMzc4LDEzNj
+k0NzMyOTYsMTU5MTYzODkwNV19
 -->
