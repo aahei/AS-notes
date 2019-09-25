@@ -8,7 +8,7 @@ Mathematics 9709
 - **modulus** *a.k.a.* **absolute value**
 
 $|ax+b|=cx+d$
-=> $ax+b=cx+d$ ho
+=> $ax+b=cx+d$ 或 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM2MzU3NDhdfQ==
+eyJoaXN0b3J5IjpbMTU5MTYzODkwNV19
 -->
