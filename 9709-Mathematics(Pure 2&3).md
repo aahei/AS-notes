@@ -9,8 +9,8 @@ Mathematics 9709
 
 $|ax+b|=cx+d$
 => $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
-
+**TIP: Always check **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzA2OTIxMF19
+eyJoaXN0b3J5IjpbMjA5MDcxMjk1OF19
 -->
