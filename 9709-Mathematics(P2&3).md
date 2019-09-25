@@ -18,9 +18,9 @@ $|ax+b|=cx+d$
 $|a|=|b| \Leftrightarrow a^2 = b^2$
 
 ---
-$|a|\leq|b|$
+$|a|\leq|b|$ $\iff$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3Mjg2MTEzLDEzNjk0NzMyOTYsMTU5MT
-YzODkwNV19
+eyJoaXN0b3J5IjpbLTE3OTUzNTY2MzgsMTM2OTQ3MzI5NiwxNT
+kxNjM4OTA1XX0=
 -->
