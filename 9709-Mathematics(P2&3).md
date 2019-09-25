@@ -3,6 +3,8 @@ Mathematics 9709
 -
 [Syllabus](https://www.cambridgeinternational.org/Images/415060-2020-2022-syllabus.pdf)
 [KaTeX Supported Fuctions](https://katex.org/docs/supported.html)
+[Desmos](https://www.desmos.com/calculator)
+Unicode Table
 
 ### 2.1 Algebra
 #### Glossary
@@ -31,6 +33,6 @@ $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 The **division algorithm for polynomials** is:
 	dividend = divisor  quotient + remainder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNj
-k0NzMyOTYsMTU5MTYzODkwNV19
+eyJoaXN0b3J5IjpbOTg2NjkwODE3LC0xNjQ3Njg1OTA5LDkxNz
+U3MDM3OCwxMzY5NDczMjk2LDE1OTE2Mzg5MDVdfQ==
 -->
