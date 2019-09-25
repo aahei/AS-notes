@@ -17,8 +17,10 @@ $|ax+b|=cx+d$
 ---
 $|a|=|b| ⇔ a^2 = b^2$
 
+---
+$|a|<=|b|$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDAzNDI1MSwxMzY5NDczMjk2LDE1OT
+eyJoaXN0b3J5IjpbMTA2MTYzNTkxNiwxMzY5NDczMjk2LDE1OT
 E2Mzg5MDVdfQ==
 -->
