@@ -14,11 +14,11 @@ $|ax+b|=cx+d$
 <iframe src="https://www.desmos.com/calculator/7nygjaejx0?embed" width="200px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
-$|a|=|b| ⇔ a^2 = b^2$
+|$|a|=|b| ⇔ a^2 = b^2$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NTUxODI1LDEzNjk0NzMyOTYsMTU5MT
-YzODkwNV19
+eyJoaXN0b3J5IjpbLTEyNTM1NzkzOTcsMTM2OTQ3MzI5NiwxNT
+kxNjM4OTA1XX0=
 -->
