@@ -7,6 +7,8 @@ Mathematics 9709
 ### 2.1 Algebra
 #### Glossary
 - **modulus** *a.k.a.* **absolute value**
+- **polynoma**
+- 
 
 ----
 $|ax+b|=cx+d$
@@ -19,9 +21,10 @@ $|ax+b|=cx+d$
 $|a|=|b| \Harr a^2 = b^2$
 
 ---
-$|a|\leq|b| \Harr -b\leq a\leq b$
-$|a|\geq b \Harr a\leq -b 或 a\geq b$
+$|a|\leq b \Harr -b\leq a\leq b$
+$|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2Mjk0MzYzLDEzNjk0NzMyOTYsMTU5MT
+eyJoaXN0b3J5IjpbNTgwMTU2NDM4LDEzNjk0NzMyOTYsMTU5MT
 YzODkwNV19
 -->
