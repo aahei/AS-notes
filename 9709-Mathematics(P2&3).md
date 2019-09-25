@@ -19,9 +19,9 @@ $|ax+b|=cx+d$
 $|a|=|b| \Harr a^2 = b^2$
 
 ---
-$|a|\leq|b| \Harr -b\leq a$
-
+$|a|\leq|b| \Harr -b\leq a\leq b$
+$|a|\geq b \Harr a\leq -b OR a\geq b$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjA1NzA2OCwxMzY5NDczMjk2LDE1OT
+eyJoaXN0b3J5IjpbLTQ0NDkwNjA4MCwxMzY5NDczMjk2LDE1OT
 E2Mzg5MDVdfQ==
 -->
