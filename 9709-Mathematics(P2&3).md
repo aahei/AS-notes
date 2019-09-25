@@ -3,6 +3,8 @@ Mathematics 9709
 -
 [Syllabus](https://www.cambridgeinternational.org/Images/415060-2020-2022-syllabus.pdf)
 
+
+
 ### 2.1 Algebra
 #### Glossary
 - **modulus** *a.k.a.* **absolute value**
@@ -21,6 +23,6 @@ $|a|=|b| ⇔ a^2 = b^2$
 $|a|<=|b|$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTYzNTkxNiwxMzY5NDczMjk2LDE1OT
-E2Mzg5MDVdfQ==
+eyJoaXN0b3J5IjpbMzY5MDQxNTIwLDEzNjk0NzMyOTYsMTU5MT
+YzODkwNV19
 -->
