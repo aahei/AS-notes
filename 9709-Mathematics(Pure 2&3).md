@@ -8,8 +8,9 @@ Mathematics 9709
 - **modulus** *a.k.a.* **absolute value**
 
 $|ax+b|=cx+d$
-=> $ax+b=cx+d$ or $ax+b=-$
+=> $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzgxMzEyMF19
+eyJoaXN0b3J5IjpbLTI3MzA2OTIxMF19
 -->
