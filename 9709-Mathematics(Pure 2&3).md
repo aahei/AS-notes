@@ -7,8 +7,8 @@ Mathematics 9709
 #### Glossary
 - **modulus** *a.k.a.* **absolute value**
 
-$
+$|ax+b|=cx+d$ =>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjMzNjkwNF19
+eyJoaXN0b3J5IjpbLTEzOTgyOTY0NjJdfQ==
 -->
