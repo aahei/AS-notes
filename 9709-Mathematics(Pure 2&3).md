@@ -10,9 +10,9 @@ Mathematics 9709
 $|ax+b|=cx+d$
 => $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
 **TIP: Always check the answers**
-<iframe src="https://www.desmos.com/calculator/czuauko27v?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODAxMTUxOCwtMjI0NzEwODIyXX0=
+eyJoaXN0b3J5IjpbODM0ODUwNTY4LC0yMjQ3MTA4MjJdfQ==
 -->
