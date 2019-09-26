@@ -36,7 +36,7 @@ The **division algorithm for polynomials** is:
 
 ---
 #### <font color=blue>The Facor Theorem</font>
-$P(x)=(x-c)Q(x)$
+$P(x)=(x-c)\;Q(x)$
 
 
 ---
@@ -58,7 +58,7 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc4MDQ4ODMsNDIxNTc5NzIyLDE4MD
+eyJoaXN0b3J5IjpbLTEwOTM0ODgwMzYsNDIxNTc5NzIyLDE4MD
 czMzgxNzIsLTUzOTY1NjY0LDMzNjMzNzQ0MCwtNTgwODQwNDc5
 LC0yMDkzMTMxODk0LDk2NTkwNzg2Nyw4MzE4ODA5NDIsLTE1Mz
 U1NzQwNTcsLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNjk0NzMy
