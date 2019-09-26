@@ -37,8 +37,15 @@ The **division algorithm for polynomials** is:
 
 ### 2.2 Logarithmic and exponential functions
 
+
+
+---
+Solving exponential equations
+**TLOBS**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMT
-g4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAz
-NzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbLTU4MDg0MDQ3OSwtMjA5MzEzMTg5NCw5Nj
+U5MDc4NjcsODMxODgwOTQyLC0xNTM1NTc0MDU3LC0xNjQ3Njg1
+OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2LDE1OTE2Mzg5MDVdfQ
+==
 -->
