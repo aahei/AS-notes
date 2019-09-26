@@ -39,7 +39,7 @@ The **division algorithm for polynomials** is:
 $P(x)=(x-c)\;Q(x)$
 <font color=brown>If for a polynomial $P(x)$, $P(c)=0$ then $x-c$ is a facor of $P(x)$</font>
 $P(x)=(ax-c)\,Q(x)$
-<font color=brown>P(\frac
+<font color=brown>$P(\dfrac c a)=0$ 
 
 
 ---
@@ -61,9 +61,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDUwMjA2MCw0MjE1Nzk3MjIsMTgwNz
-MzODE3MiwtNTM5NjU2NjQsMzM2MzM3NDQwLC01ODA4NDA0Nzks
-LTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNT
-U3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5
-NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbNTg1MzM0NjYwLDQyMTU3OTcyMiwxODA3Mz
+M4MTcyLC01Mzk2NTY2NCwzMzYzMzc0NDAsLTU4MDg0MDQ3OSwt
+MjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQyLC0xNTM1NT
+c0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2
+LDE1OTE2Mzg5MDVdfQ==
 -->
