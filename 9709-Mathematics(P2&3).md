@@ -16,17 +16,17 @@ Mathematics 9709
 - **remainder**, **factor**
 
 ----
-$|ax+b|=cx+d$
+<center>$|ax+b|=cx+d$
 => $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
 
 **TIP: Always check the answers (See below)**
 <iframe src="https://www.desmos.com/calculator/7nygjaejx0?embed" width="200px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
-$|a|=|b| \Harr a^2 = b^2$
+<center>$|a|=|b| \Harr a^2 = b^2$
 
 ---
-$|a|\leq b \Harr -b\leq a\leq b$
+<center>$|a|\leq b \Harr -b\leq a\leq b$
 $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 
 ---
@@ -36,7 +36,7 @@ The **division algorithm for polynomials** is:
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxODgwOTQyLC0xNTM1NTc0MDU3LC0xNj
-Q3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2LDE1OTE2Mzg5
-MDVdfQ==
+eyJoaXN0b3J5IjpbOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNT
+U3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5
+NiwxNTkxNjM4OTA1XX0=
 -->
