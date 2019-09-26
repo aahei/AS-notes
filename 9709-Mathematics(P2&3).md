@@ -65,6 +65,8 @@ TIP: $\log_{10}6$ can also be written as $\log6$ or $\lg6$
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2435266fcae4aa91d3d70a74bb91b5b35ef52edd =x50)![](https://wikimedia.org/api/rest_v1/media/math/render/svg/b0d0a9fbffb659c0055d5ee6fde3f7f28e96f45c =x50)
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/7614b27f61a9e09906b7682425b9e7a1ce7e24a0 =x50)![](https://wikimedia.org/api/rest_v1/media/math/render/svg/fe5d50baa86b950ff6d15760b7a38df1f8d8c868 =x50)
 
+---
+#### <font color=blue>The Laws of Lagarithms</font>
 
 
 ---
@@ -81,10 +83,10 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgzMDEwNTIsLTIxMjMxMzk3ODksLT
-UwNzM0NTE1MSw0MjE1Nzk3MjIsMTgwNzMzODE3MiwtNTM5NjU2
-NjQsMzM2MzM3NDQwLC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOT
-Y1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4
-NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX
-0=
+eyJoaXN0b3J5IjpbNDA1MjI4NTk3LC0xOTI4MzAxMDUyLC0yMT
+IzMTM5Nzg5LC01MDczNDUxNTEsNDIxNTc5NzIyLDE4MDczMzgx
+NzIsLTUzOTY1NjY0LDMzNjMzNzQ0MCwtNTgwODQwNDc5LC0yMD
+kzMTMxODk0LDk2NTkwNzg2Nyw4MzE4ODA5NDIsLTE1MzU1NzQw
+NTcsLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNjk0NzMyOTYsMT
+U5MTYzODkwNV19
 -->
