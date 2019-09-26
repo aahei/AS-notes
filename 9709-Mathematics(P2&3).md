@@ -45,8 +45,10 @@ Solving exponential equations
 Example:
 Solve $4^x+15=4(2^{x+1})$
 
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNDMwMTE5LC01ODA4NDA0NzksLTIwOT
+eyJoaXN0b3J5IjpbMzM2MzM3NDQwLC01ODA4NDA0NzksLTIwOT
 MxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1
 NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNT
 kxNjM4OTA1XX0=
