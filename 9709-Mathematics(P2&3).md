@@ -37,12 +37,15 @@ The **division algorithm for polynomials** is:
 ---
 #### <font color=blue>The Facor Theorem</font>
 $P(x)=(x-c)\;Q(x)$
-<font color=brown>If for a polynomial $P(x)$, $P(c)=0$ then $x-c$ is a facor of $P(x)$</font>
-$P(x)=(ax-c)\,Q(x)$
-<font color=brown>$P(\dfrac c a)=0$ 
 
+<font color=brown>If for a polynomial $P(x)$, $P(c)=0$ then $x-c$ is a facor of $P(x)$</font>
+
+$P(x)=(ax-c)\,Q(x)$
+
+<font color=brown>$P(\dfrac c a)=0$  then $ax-c$ is a factor of $P(x)$</font>
 
 ---
+#### <
 ### 2.2 Logarithmic and exponential functions
 
 
@@ -61,9 +64,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MzM0NjYwLDQyMTU3OTcyMiwxODA3Mz
-M4MTcyLC01Mzk2NTY2NCwzMzYzMzc0NDAsLTU4MDg0MDQ3OSwt
-MjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQyLC0xNTM1NT
-c0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2
-LDE1OTE2Mzg5MDVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg3NzQzNzIsNDIxNTc5NzIyLDE4MD
+czMzgxNzIsLTUzOTY1NjY0LDMzNjMzNzQ0MCwtNTgwODQwNDc5
+LC0yMDkzMTMxODk0LDk2NTkwNzg2Nyw4MzE4ODA5NDIsLTE1Mz
+U1NzQwNTcsLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNjk0NzMy
+OTYsMTU5MTYzODkwNV19
 -->
