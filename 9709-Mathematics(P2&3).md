@@ -40,12 +40,12 @@ The **division algorithm for polynomials** is:
 
 
 ---
-Solving exponential equations
+### Solving exponential equations
 **TLOBS**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDg0MDQ3OSwtMjA5MzEzMTg5NCw5Nj
-U5MDc4NjcsODMxODgwOTQyLC0xNTM1NTc0MDU3LC0xNjQ3Njg1
-OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2LDE1OTE2Mzg5MDVdfQ
-==
+eyJoaXN0b3J5IjpbNDg2NjU3MDI4LC01ODA4NDA0NzksLTIwOT
+MxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1
+NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNT
+kxNjM4OTA1XX0=
 -->
