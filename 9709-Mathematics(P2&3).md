@@ -16,7 +16,7 @@ Mathematics 9709
 - **dividend**, **divisor**, **quotient**
 - **remainder**, **factor**
 
-!()[https://wikimedia.org/api/rest_v1/media/math/render/svg/6d920dd1c0b257a17902ee5c232671d872d6c27d]
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/6d920dd1c0b257a17902ee5c232671d872d6c27d =x200)![enter image description here](https://wikimedia.org/api/rest_v1/media/math/render/svg/4ecf54ec7951242b6ad2211379c9f518f7c8a8cb =x200)
 
 ----
 <center>$|ax+b|=cx+d$
@@ -81,9 +81,10 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMjIxMTAsLTIxMjMxMzk3ODksLTUwNz
-M0NTE1MSw0MjE1Nzk3MjIsMTgwNzMzODE3MiwtNTM5NjU2NjQs
-MzM2MzM3NDQwLC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOTY1OT
-A3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkw
-OSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbLTE3NDI2MDUzODQsLTIxMjMxMzk3ODksLT
+UwNzM0NTE1MSw0MjE1Nzk3MjIsMTgwNzMzODE3MiwtNTM5NjU2
+NjQsMzM2MzM3NDQwLC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOT
+Y1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4
+NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX
+0=
 -->
