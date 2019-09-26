@@ -35,8 +35,9 @@ The **division algorithm for polynomials** is:
 
 ---
 
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNT
-U3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5
-NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbLTExNzI0ODU5MDgsOTY1OTA3ODY3LDgzMT
+g4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAz
+NzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
 -->
