@@ -59,7 +59,11 @@ $P(x)=(ax-c)\,Q(x)+R$
 
 ---
 TIP: $\log_{10}6$ can also be written as $\log6$ or $\lg6$  
-![enter image description here](https://wikimedia.org/api/rest_v1/media/math/render/svg/2435266fcae4aa91d3d70a74bb91b5b35ef52edd)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2435266fcae4aa91d3d70a74bb91b5b35ef52edd)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/7614b27f61a9e09906b7682425b9e7a1ce7e24a0)
+
+
 
 ---
 #### <font color=blue>**Solving exponential equations**</font>
@@ -75,9 +79,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMxMzk3ODksLTUwNzM0NTE1MSw0Mj
-E1Nzk3MjIsMTgwNzMzODE3MiwtNTM5NjU2NjQsMzM2MzM3NDQw
-LC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMT
-g4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAz
-NzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbNzIyMTM5Mjg3LC0yMTIzMTM5Nzg5LC01MD
+czNDUxNTEsNDIxNTc5NzIyLDE4MDczMzgxNzIsLTUzOTY1NjY0
+LDMzNjMzNzQ0MCwtNTgwODQwNDc5LC0yMDkzMTMxODk0LDk2NT
+kwNzg2Nyw4MzE4ODA5NDIsLTE1MzU1NzQwNTcsLTE2NDc2ODU5
+MDksOTE3NTcwMzc4LDEzNjk0NzMyOTYsMTU5MTYzODkwNV19
 -->
