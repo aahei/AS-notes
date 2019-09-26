@@ -43,7 +43,7 @@ The **division algorithm for polynomials** is:
 #### <font color=blue>**Solving exponential equations**</font>
 >**T**ake **L**ogs **O**f **B**oth **S**ides
 
-**TIP: Alwa
+**TIP: Change inequality symble if 
 
 Example:
 Solve $4^x+15=4(2^{x+1})$
@@ -53,8 +53,8 @@ Q: WE2.13
 0.6^x^<0?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA3NzI0MzcsMzM2MzM3NDQwLC01OD
-A4NDA0NzksLTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0
-MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMT
-M2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbMTcxMDkyMjM5MiwzMzYzMzc0NDAsLTU4MD
+g0MDQ3OSwtMjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQy
+LC0xNTM1NTc0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMz
+Y5NDczMjk2LDE1OTE2Mzg5MDVdfQ==
 -->
