@@ -35,7 +35,11 @@ The **division algorithm for polynomials** is:
 <center>dividend = divisor × quotient + remainder</center>
 
 ---
+#### <font color=blue>The Facor Theorem</font>
+$P(x)=(x-c)Q(x)$
 
+
+---
 ### 2.2 Logarithmic and exponential functions
 
 
@@ -54,9 +58,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxNTc5NzIyLDE4MDczMzgxNzIsLTUzOT
-Y1NjY0LDMzNjMzNzQ0MCwtNTgwODQwNDc5LC0yMDkzMTMxODk0
-LDk2NTkwNzg2Nyw4MzE4ODA5NDIsLTE1MzU1NzQwNTcsLTE2ND
-c2ODU5MDksOTE3NTcwMzc4LDEzNjk0NzMyOTYsMTU5MTYzODkw
-NV19
+eyJoaXN0b3J5IjpbLTE1Nzc4MDQ4ODMsNDIxNTc5NzIyLDE4MD
+czMzgxNzIsLTUzOTY1NjY0LDMzNjMzNzQ0MCwtNTgwODQwNDc5
+LC0yMDkzMTMxODk0LDk2NTkwNzg2Nyw4MzE4ODA5NDIsLTE1Mz
+U1NzQwNTcsLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNjk0NzMy
+OTYsMTU5MTYzODkwNV19
 -->
