@@ -55,8 +55,10 @@ $P(x)=(ax-c)\,Q(x)+R$
 <font color=brown>If $ax-c$ is a factor of $P(x)$, the remainder is $P(\dfrac c a)$
 
 ### 2.2 Logarithmic and exponential functions
+#### Glossary
 
-
+---
+TIP: $\log_106$ can also be written as $\log6$ or  
 
 ---
 #### <font color=blue>**Solving exponential equations**</font>
@@ -72,9 +74,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDY0NDY4Niw0MjE1Nzk3MjIsMTgwNz
-MzODE3MiwtNTM5NjU2NjQsMzM2MzM3NDQwLC01ODA4NDA0Nzks
-LTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNT
-U3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5
-NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbMzkwMzQ1NTYwLDQyMTU3OTcyMiwxODA3Mz
+M4MTcyLC01Mzk2NTY2NCwzMzYzMzc0NDAsLTU4MDg0MDQ3OSwt
+MjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQyLC0xNTM1NT
+c0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2
+LDE1OTE2Mzg5MDVdfQ==
 -->
