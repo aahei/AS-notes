@@ -5,6 +5,7 @@ Mathematics 9709
 [KaTeX Supported Fuctions](https://katex.org/docs/supported.html)
 [Desmos](https://www.desmos.com/calculator)
 [Unicode Table](https://unicode-table.com/en/)
+[HTML color names](https://htmlcolorcodes.com/zh/yanse-ming/)
 
 ### 2.1 Algebra
 #### Glossary
@@ -56,8 +57,8 @@ Q: WE2.13
 0.6^x^<0?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTY1NjY0LDMzNjMzNzQ0MCwtNTgwOD
-QwNDc5LC0yMDkzMTMxODk0LDk2NTkwNzg2Nyw4MzE4ODA5NDIs
-LTE1MzU1NzQwNTcsLTE2NDc2ODU5MDksOTE3NTcwMzc4LDEzNj
-k0NzMyOTYsMTU5MTYzODkwNV19
+eyJoaXN0b3J5IjpbMTgwNzMzODE3MiwtNTM5NjU2NjQsMzM2Mz
+M3NDQwLC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOTY1OTA3ODY3
+LDgzMTg4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkwOSw5MT
+c1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
 -->
