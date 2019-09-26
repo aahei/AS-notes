@@ -41,7 +41,8 @@ The **division algorithm for polynomials** is:
 
 ---
 #### <font color=blue>**Solving exponential equations**</font>
-**TLOBS**
+>**T**ake **L**ogs **O**n **B**oth **S**ides
+>
 Example:
 Solve $4^x+15=4(2^{x+1})$
 
@@ -50,7 +51,7 @@ Q: WE2.13
 0.6^x^<0?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzA1MDgwNywzMzYzMzc0NDAsLTU4MD
+eyJoaXN0b3J5IjpbLTU4NDY2MjExNywzMzYzMzc0NDAsLTU4MD
 g0MDQ3OSwtMjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQy
 LC0xNTM1NTc0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMz
 Y5NDczMjk2LDE1OTE2Mzg5MDVdfQ==
