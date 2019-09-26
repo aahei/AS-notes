@@ -44,6 +44,8 @@ The **division algorithm for polynomials** is:
 >**T**ake **L**ogs **O**f **B**oth **S**ides
 
 **TIP: Change inequality symble if $y=log_ax$ and $0<a<1$**
+*This is because the logarithm in this case is a decreasing function*
+
 
 Example:
 Solve $4^x+15=4(2^{x+1})$
@@ -53,7 +55,7 @@ Q: WE2.13
 0.6^x^<0?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTgzOTkxMSwzMzYzMzc0NDAsLTU4MD
+eyJoaXN0b3J5IjpbMTgyMjQ2NDc5OCwzMzYzMzc0NDAsLTU4MD
 g0MDQ3OSwtMjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQy
 LC0xNTM1NTc0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMz
 Y5NDczMjk2LDE1OTE2Mzg5MDVdfQ==
