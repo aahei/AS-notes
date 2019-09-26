@@ -40,12 +40,14 @@ The **division algorithm for polynomials** is:
 
 
 ---
-### Solving exponential equations
+Solving exponential equations
 **TLOBS**
+Example:
+Solve$4^x+15=4(2$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NjU3MDI4LC01ODA4NDA0NzksLTIwOT
-MxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1
-NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNT
-kxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbLTE5MDE2NDA1MzgsLTU4MDg0MDQ3OSwtMj
+A5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQyLC0xNTM1NTc0
+MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2LD
+E1OTE2Mzg5MDVdfQ==
 -->
