@@ -24,10 +24,10 @@ Mathematics 9709
 <iframe src="https://www.desmos.com/calculator/7nygjaejx0?embed" width="200px" height="100px" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ---
-<center>$|a|=|b| \Harr a^2 = b^2$
+$|a|=|b| \Harr a^2 = b^2$
 
 ---
-<center>$|a|\leq b \Harr -b\leq a\leq b$
+$|a|\leq b \Harr -b\leq a\leq b$
 $|a|\geq b \Harr a\leq -b$ 或 $a\geq b$
 
 ---
@@ -37,7 +37,7 @@ The **division algorithm for polynomials** is:
 ---
 #### <font color=blue>The Facor Theorem</font>
 $P(x)=(x-c)\;Q(x)$
-<center>If for a polynomial $P(x)$ </center>
+If for a polynomial $P(x)$, $P(c)=0$ then $x-c$ is a facor of $P(x)$
 
 
 ---
@@ -59,9 +59,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTE4MjQ2OSw0MjE1Nzk3MjIsMTgwNz
-MzODE3MiwtNTM5NjU2NjQsMzM2MzM3NDQwLC01ODA4NDA0Nzks
-LTIwOTMxMzE4OTQsOTY1OTA3ODY3LDgzMTg4MDk0MiwtMTUzNT
-U3NDA1NywtMTY0NzY4NTkwOSw5MTc1NzAzNzgsMTM2OTQ3MzI5
-NiwxNTkxNjM4OTA1XX0=
+eyJoaXN0b3J5IjpbOTQwNjc3MzA2LDQyMTU3OTcyMiwxODA3Mz
+M4MTcyLC01Mzk2NTY2NCwzMzYzMzc0NDAsLTU4MDg0MDQ3OSwt
+MjA5MzEzMTg5NCw5NjU5MDc4NjcsODMxODgwOTQyLC0xNTM1NT
+c0MDU3LC0xNjQ3Njg1OTA5LDkxNzU3MDM3OCwxMzY5NDczMjk2
+LDE1OTE2Mzg5MDVdfQ==
 -->
