@@ -16,6 +16,8 @@ Mathematics 9709
 - **dividend**, **divisor**, **quotient**
 - **remainder**, **factor**
 
+!()[https://wikimedia.org/api/rest_v1/media/math/render/svg/6d920dd1c0b257a17902ee5c232671d872d6c27d]
+
 ----
 <center>$|ax+b|=cx+d$
 => $ax+b=cx+d$ 或 $ax+b=-(cx+d)$
@@ -60,8 +62,8 @@ $P(x)=(ax-c)\,Q(x)+R$
 ---
 TIP: $\log_{10}6$ can also be written as $\log6$ or $\lg6$  
 
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2435266fcae4aa91d3d70a74bb91b5b35ef52edd)
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/7614b27f61a9e09906b7682425b9e7a1ce7e24a0)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/2435266fcae4aa91d3d70a74bb91b5b35ef52edd =x50)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/7614b27f61a9e09906b7682425b9e7a1ce7e24a0 =x50)
 
 
 
@@ -79,9 +81,9 @@ Solve $4^x+15=4(2^{x+1})$
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMTM5Mjg3LC0yMTIzMTM5Nzg5LC01MD
-czNDUxNTEsNDIxNTc5NzIyLDE4MDczMzgxNzIsLTUzOTY1NjY0
-LDMzNjMzNzQ0MCwtNTgwODQwNDc5LC0yMDkzMTMxODk0LDk2NT
-kwNzg2Nyw4MzE4ODA5NDIsLTE1MzU1NzQwNTcsLTE2NDc2ODU5
-MDksOTE3NTcwMzc4LDEzNjk0NzMyOTYsMTU5MTYzODkwNV19
+eyJoaXN0b3J5IjpbMzgyMjIxMTAsLTIxMjMxMzk3ODksLTUwNz
+M0NTE1MSw0MjE1Nzk3MjIsMTgwNzMzODE3MiwtNTM5NjU2NjQs
+MzM2MzM3NDQwLC01ODA4NDA0NzksLTIwOTMxMzE4OTQsOTY1OT
+A3ODY3LDgzMTg4MDk0MiwtMTUzNTU3NDA1NywtMTY0NzY4NTkw
+OSw5MTc1NzAzNzgsMTM2OTQ3MzI5NiwxNTkxNjM4OTA1XX0=
 -->
